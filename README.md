@@ -31,3 +31,10 @@ python generate_sample_gene_matrix.py
 ```
 
 Both scripts are optimized for datasets from target capture projects using HybPiper + MAFFT + TrimAl.
+
+## Citation
+
+If you use these scripts, please cite:
+
+Putri, E.K. (2025). *baitset-performances: Scripts for evaluating bait set performance in phylogenomics*. GitHub repository. https://github.com/EvaKP1990/baitset-performances
+
